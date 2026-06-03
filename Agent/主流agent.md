@@ -1,8 +1,8 @@
-openclaw
+### openclaw
 	权限问题
-hermes
+### hermes
 	Learning Loop
-cc: 
+### cc: 
 	claude.md
 	subagent
 	skills
@@ -35,8 +35,3 @@ Claude Code：
 记忆 = CLAUDE.md + 项目规则 + 开发偏好
 工具 = 读文件/改文件/shell/测试/MCP/hooks/subagents
 上下文 = 当前任务 + 相关代码 + 工具反馈 + 压缩摘要
-
-
-MCP
-skills
-cli
